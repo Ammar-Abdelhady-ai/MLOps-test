@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/262651086410039652/7f7149574c854986996aebb74b72f9fd/artifacts
+end_time: 1739732644566
+entry_point_name: ''
+experiment_id: '262651086410039652'
+lifecycle_stage: active
+run_id: 7f7149574c854986996aebb74b72f9fd
+run_name: skittish-ape-370
+run_uuid: 7f7149574c854986996aebb74b72f9fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739732633949
+status: 3
+tags: []
+user_id: ammar

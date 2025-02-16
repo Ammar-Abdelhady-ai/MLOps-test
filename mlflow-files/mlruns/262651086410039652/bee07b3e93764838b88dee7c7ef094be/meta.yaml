@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/262651086410039652/bee07b3e93764838b88dee7c7ef094be/artifacts
+deleted_time: 1739671694417
 end_time: 1739666949924
 entry_point_name: ''
 experiment_id: '262651086410039652'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: bee07b3e93764838b88dee7c7ef094be
 run_name: intelligent-swan-650
 run_uuid: bee07b3e93764838b88dee7c7ef094be
