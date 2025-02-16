@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1739736371013
+current_stage: None
+description: ''
+last_updated_timestamp: 1739736371013
+name: logistic_model
+run_id: 233f25fcce644822860e816b99844587
+run_link: ''
+source: models:/logistic_model/4
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/262651086410039652/233f25fcce644822860e816b99844587/artifacts/logistic_model
+user_id: null
+version: 5
