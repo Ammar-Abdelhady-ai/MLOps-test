@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/262651086410039652/dede3a47a71c4cdf9b0f9fd3739fc7e8/artifacts
+end_time: 1739667034435
+entry_point_name: ''
+experiment_id: '262651086410039652'
+lifecycle_stage: active
+run_id: dede3a47a71c4cdf9b0f9fd3739fc7e8
+run_name: awesome-cub-528
+run_uuid: dede3a47a71c4cdf9b0f9fd3739fc7e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739667034410
+status: 4
+tags: []
+user_id: ammar

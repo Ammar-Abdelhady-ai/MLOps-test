@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/262651086410039652/cfcd79e3fea84a78a8dfd520e8e53e08/artifacts
+end_time: 1739667060069
+entry_point_name: ''
+experiment_id: '262651086410039652'
+lifecycle_stage: active
+run_id: cfcd79e3fea84a78a8dfd520e8e53e08
+run_name: aged-croc-875
+run_uuid: cfcd79e3fea84a78a8dfd520e8e53e08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739667050103
+status: 3
+tags: []
+user_id: ammar
