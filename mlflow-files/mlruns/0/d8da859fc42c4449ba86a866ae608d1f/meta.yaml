@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d8da859fc42c4449ba86a866ae608d1f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d8da859fc42c4449ba86a866ae608d1f
+run_name: unleashed-mole-537
+run_uuid: d8da859fc42c4449ba86a866ae608d1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739750829090
+status: 1
+tags: []
+user_id: ammar

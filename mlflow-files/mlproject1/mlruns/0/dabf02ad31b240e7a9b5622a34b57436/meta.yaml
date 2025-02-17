@@ -1,0 +1,15 @@
+artifact_uri: file:///media/ammar/Volume%202/Mlflow/mlflow-files/mlproject1/mlruns/0/dabf02ad31b240e7a9b5622a34b57436/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dabf02ad31b240e7a9b5622a34b57436
+run_name: defiant-lark-888
+run_uuid: dabf02ad31b240e7a9b5622a34b57436
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739748064170
+status: 1
+tags: []
+user_id: ammar

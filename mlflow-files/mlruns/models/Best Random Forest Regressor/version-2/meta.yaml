@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1739751261560
+current_stage: None
+description: ''
+last_updated_timestamp: 1739751261560
+name: Best Random Forest Regressor
+run_id: f4554165673d4f2f994f534fc2c0b799
+run_link: ''
+source: mlflow-artifacts:/0/f4554165673d4f2f994f534fc2c0b799/artifacts/model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/0/f4554165673d4f2f994f534fc2c0b799/artifacts/model
+user_id: null
+version: 2

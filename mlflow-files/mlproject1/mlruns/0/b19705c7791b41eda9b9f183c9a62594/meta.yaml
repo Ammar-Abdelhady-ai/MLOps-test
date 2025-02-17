@@ -1,0 +1,15 @@
+artifact_uri: file:///media/ammar/Volume%202/Mlflow/mlflow-files/mlproject1/mlruns/0/b19705c7791b41eda9b9f183c9a62594/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b19705c7791b41eda9b9f183c9a62594
+run_name: judicious-foal-657
+run_uuid: b19705c7791b41eda9b9f183c9a62594
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739744360171
+status: 1
+tags: []
+user_id: ammar

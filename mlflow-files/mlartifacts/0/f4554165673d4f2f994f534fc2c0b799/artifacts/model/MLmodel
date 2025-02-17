@@ -1,0 +1,36 @@
+artifact_path: model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.16
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+is_signature_from_type_hint: false
+mlflow_version: 2.20.2
+model_size_bytes: 14609072
+model_uuid: 6d87cf83a4cf4fa597a2397efbd95103
+run_id: f4554165673d4f2f994f534fc2c0b799
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "double", "name": "MedInc", "required": true}, {"type": "double",
+    "name": "HouseAge", "required": true}, {"type": "double", "name": "AveRooms",
+    "required": true}, {"type": "double", "name": "AveBedrms", "required": true},
+    {"type": "double", "name": "Population", "required": true}, {"type": "double",
+    "name": "AveOccup", "required": true}, {"type": "double", "name": "Latitude",
+    "required": true}, {"type": "double", "name": "Longitude", "required": true}]'
+  outputs: '[{"type": "double", "name": "MedHouseVal", "required": true}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-02-17 00:14:11.905218'

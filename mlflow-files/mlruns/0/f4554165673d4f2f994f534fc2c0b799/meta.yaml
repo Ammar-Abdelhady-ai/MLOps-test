@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/f4554165673d4f2f994f534fc2c0b799/artifacts
+end_time: 1739751261578
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f4554165673d4f2f994f534fc2c0b799
+run_name: painted-steed-649
+run_uuid: f4554165673d4f2f994f534fc2c0b799
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739751192530
+status: 3
+tags: []
+user_id: ammar

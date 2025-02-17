@@ -1,0 +1,15 @@
+artifact_uri: file:///media/ammar/Volume%202/Mlflow/mlflow-files/mlproject1/mlruns/0/330749b53eeb40bc90f8e4267ab97340/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 330749b53eeb40bc90f8e4267ab97340
+run_name: judicious-slug-57
+run_uuid: 330749b53eeb40bc90f8e4267ab97340
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739744844652
+status: 1
+tags: []
+user_id: ammar
