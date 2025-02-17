@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/212182376576522515/5a31001b52a540af973f242ddc160677/artifacts
+end_time: 1739760075934
+entry_point_name: ''
+experiment_id: '212182376576522515'
+lifecycle_stage: active
+run_id: 5a31001b52a540af973f242ddc160677
+run_name: skittish-hare-234
+run_uuid: 5a31001b52a540af973f242ddc160677
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739760049805
+status: 3
+tags: []
+user_id: ammar

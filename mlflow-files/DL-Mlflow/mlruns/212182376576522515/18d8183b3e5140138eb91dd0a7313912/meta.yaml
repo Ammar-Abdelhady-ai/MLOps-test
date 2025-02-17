@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/212182376576522515/18d8183b3e5140138eb91dd0a7313912/artifacts
+end_time: 1739760026507
+entry_point_name: ''
+experiment_id: '212182376576522515'
+lifecycle_stage: active
+run_id: 18d8183b3e5140138eb91dd0a7313912
+run_name: honorable-mare-322
+run_uuid: 18d8183b3e5140138eb91dd0a7313912
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739759999955
+status: 3
+tags: []
+user_id: ammar

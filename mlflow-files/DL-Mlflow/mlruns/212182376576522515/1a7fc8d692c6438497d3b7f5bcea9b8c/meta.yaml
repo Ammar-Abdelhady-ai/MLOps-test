@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/212182376576522515/1a7fc8d692c6438497d3b7f5bcea9b8c/artifacts
+end_time: 1739759290040
+entry_point_name: ''
+experiment_id: '212182376576522515'
+lifecycle_stage: active
+run_id: 1a7fc8d692c6438497d3b7f5bcea9b8c
+run_name: rare-worm-235
+run_uuid: 1a7fc8d692c6438497d3b7f5bcea9b8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739759280415
+status: 4
+tags: []
+user_id: ammar

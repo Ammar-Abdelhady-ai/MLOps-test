@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/212182376576522515/e484bea93a5046529f15fef57ecefd26/artifacts
+end_time: 1739762125442
+entry_point_name: ''
+experiment_id: '212182376576522515'
+lifecycle_stage: active
+run_id: e484bea93a5046529f15fef57ecefd26
+run_name: burly-dove-74
+run_uuid: e484bea93a5046529f15fef57ecefd26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739762115065
+status: 4
+tags: []
+user_id: ammar

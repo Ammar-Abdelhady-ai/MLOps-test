@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/212182376576522515/ad9c4b2b646a492daecc9e91d6eed870/artifacts
+end_time: 1739758181480
+entry_point_name: ''
+experiment_id: '212182376576522515'
+lifecycle_stage: active
+run_id: ad9c4b2b646a492daecc9e91d6eed870
+run_name: wistful-crane-100
+run_uuid: ad9c4b2b646a492daecc9e91d6eed870
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739758181431
+status: 4
+tags: []
+user_id: ammar

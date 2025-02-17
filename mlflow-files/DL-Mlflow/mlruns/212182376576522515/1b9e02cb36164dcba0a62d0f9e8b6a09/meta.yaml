@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/212182376576522515/1b9e02cb36164dcba0a62d0f9e8b6a09/artifacts
+end_time: 1739757828333
+entry_point_name: ''
+experiment_id: '212182376576522515'
+lifecycle_stage: active
+run_id: 1b9e02cb36164dcba0a62d0f9e8b6a09
+run_name: classy-mouse-693
+run_uuid: 1b9e02cb36164dcba0a62d0f9e8b6a09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739757828174
+status: 4
+tags: []
+user_id: ammar

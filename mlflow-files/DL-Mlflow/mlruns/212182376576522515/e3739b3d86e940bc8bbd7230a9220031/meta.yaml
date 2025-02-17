@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/212182376576522515/e3739b3d86e940bc8bbd7230a9220031/artifacts
+end_time: 1739757516912
+entry_point_name: ''
+experiment_id: '212182376576522515'
+lifecycle_stage: active
+run_id: e3739b3d86e940bc8bbd7230a9220031
+run_name: melodic-mole-381
+run_uuid: e3739b3d86e940bc8bbd7230a9220031
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739757516297
+status: 4
+tags: []
+user_id: ammar

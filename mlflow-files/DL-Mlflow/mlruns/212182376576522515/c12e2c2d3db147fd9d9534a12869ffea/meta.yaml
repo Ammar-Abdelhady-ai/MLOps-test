@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/212182376576522515/c12e2c2d3db147fd9d9534a12869ffea/artifacts
+end_time: 1739759505473
+entry_point_name: ''
+experiment_id: '212182376576522515'
+lifecycle_stage: active
+run_id: c12e2c2d3db147fd9d9534a12869ffea
+run_name: nimble-crane-425
+run_uuid: c12e2c2d3db147fd9d9534a12869ffea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739759493987
+status: 4
+tags: []
+user_id: ammar

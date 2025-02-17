@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/212182376576522515/e442030e5b354aaa9006c402f2aeace7/artifacts
+end_time: 1739757968002
+entry_point_name: ''
+experiment_id: '212182376576522515'
+lifecycle_stage: active
+run_id: e442030e5b354aaa9006c402f2aeace7
+run_name: efficient-dog-845
+run_uuid: e442030e5b354aaa9006c402f2aeace7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739757967962
+status: 4
+tags: []
+user_id: ammar

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1739760075914
+current_stage: None
+description: ''
+last_updated_timestamp: 1739760075914
+name: wine-quality-model
+run_id: 5a31001b52a540af973f242ddc160677
+run_link: ''
+source: mlflow-artifacts:/212182376576522515/5a31001b52a540af973f242ddc160677/artifacts/model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/212182376576522515/5a31001b52a540af973f242ddc160677/artifacts/model
+user_id: null
+version: 4

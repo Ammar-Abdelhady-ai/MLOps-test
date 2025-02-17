@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/212182376576522515/b3d60c97df7646c28302e64af9f6b99a/artifacts
+end_time: 1739757305644
+entry_point_name: ''
+experiment_id: '212182376576522515'
+lifecycle_stage: active
+run_id: b3d60c97df7646c28302e64af9f6b99a
+run_name: upbeat-rat-638
+run_uuid: b3d60c97df7646c28302e64af9f6b99a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739757305473
+status: 4
+tags: []
+user_id: ammar

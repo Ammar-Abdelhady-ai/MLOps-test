@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/212182376576522515/3d14991988e14176ac2ee5a856c22ab4/artifacts
+end_time: 1739759115576
+entry_point_name: ''
+experiment_id: '212182376576522515'
+lifecycle_stage: active
+run_id: 3d14991988e14176ac2ee5a856c22ab4
+run_name: treasured-gull-181
+run_uuid: 3d14991988e14176ac2ee5a856c22ab4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739759107017
+status: 4
+tags: []
+user_id: ammar

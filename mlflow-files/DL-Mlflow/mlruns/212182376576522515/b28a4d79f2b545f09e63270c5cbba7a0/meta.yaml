@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/212182376576522515/b28a4d79f2b545f09e63270c5cbba7a0/artifacts
+end_time: 1739757123348
+entry_point_name: ''
+experiment_id: '212182376576522515'
+lifecycle_stage: active
+run_id: b28a4d79f2b545f09e63270c5cbba7a0
+run_name: enchanting-skunk-297
+run_uuid: b28a4d79f2b545f09e63270c5cbba7a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739757123213
+status: 4
+tags: []
+user_id: ammar

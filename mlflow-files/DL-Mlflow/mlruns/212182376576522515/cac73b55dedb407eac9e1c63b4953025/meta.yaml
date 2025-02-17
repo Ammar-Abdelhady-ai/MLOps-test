@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/212182376576522515/cac73b55dedb407eac9e1c63b4953025/artifacts
+end_time: 1739756639268
+entry_point_name: ''
+experiment_id: '212182376576522515'
+lifecycle_stage: active
+run_id: cac73b55dedb407eac9e1c63b4953025
+run_name: honorable-doe-190
+run_uuid: cac73b55dedb407eac9e1c63b4953025
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739756639015
+status: 4
+tags: []
+user_id: ammar

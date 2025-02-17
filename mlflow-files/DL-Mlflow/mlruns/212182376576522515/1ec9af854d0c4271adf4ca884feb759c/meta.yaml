@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/212182376576522515/1ec9af854d0c4271adf4ca884feb759c/artifacts
+end_time: 1739756682210
+entry_point_name: ''
+experiment_id: '212182376576522515'
+lifecycle_stage: active
+run_id: 1ec9af854d0c4271adf4ca884feb759c
+run_name: learned-kit-360
+run_uuid: 1ec9af854d0c4271adf4ca884feb759c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739756682151
+status: 4
+tags: []
+user_id: ammar

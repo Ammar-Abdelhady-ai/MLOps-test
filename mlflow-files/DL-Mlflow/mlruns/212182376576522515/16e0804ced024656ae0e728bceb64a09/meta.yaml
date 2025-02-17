@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/212182376576522515/16e0804ced024656ae0e728bceb64a09/artifacts
+end_time: 1739760934614
+entry_point_name: ''
+experiment_id: '212182376576522515'
+lifecycle_stage: active
+run_id: 16e0804ced024656ae0e728bceb64a09
+run_name: nebulous-toad-661
+run_uuid: 16e0804ced024656ae0e728bceb64a09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739760916206
+status: 4
+tags: []
+user_id: ammar

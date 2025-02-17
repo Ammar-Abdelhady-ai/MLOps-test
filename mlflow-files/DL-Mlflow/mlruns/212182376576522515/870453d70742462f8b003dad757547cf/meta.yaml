@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/212182376576522515/870453d70742462f8b003dad757547cf/artifacts
+end_time: 1739761167496
+entry_point_name: ''
+experiment_id: '212182376576522515'
+lifecycle_stage: active
+run_id: 870453d70742462f8b003dad757547cf
+run_name: delicate-ox-390
+run_uuid: 870453d70742462f8b003dad757547cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739761146905
+status: 4
+tags: []
+user_id: ammar

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/212182376576522515/b0e20841f21942a889f4796da92d9473/artifacts
+end_time: 1739761099161
+entry_point_name: ''
+experiment_id: '212182376576522515'
+lifecycle_stage: active
+run_id: b0e20841f21942a889f4796da92d9473
+run_name: delicate-newt-46
+run_uuid: b0e20841f21942a889f4796da92d9473
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739761078558
+status: 4
+tags: []
+user_id: ammar

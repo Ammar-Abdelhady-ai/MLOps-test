@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/794321113439192072/f0c3c3e16f8740e697dfd957489b939b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '794321113439192072'
+lifecycle_stage: active
+run_id: f0c3c3e16f8740e697dfd957489b939b
+run_name: funny-gnu-609
+run_uuid: f0c3c3e16f8740e697dfd957489b939b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739760686434
+status: 1
+tags: []
+user_id: ammar

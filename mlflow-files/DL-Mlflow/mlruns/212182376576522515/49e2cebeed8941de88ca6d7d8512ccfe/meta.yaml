@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/212182376576522515/49e2cebeed8941de88ca6d7d8512ccfe/artifacts
+end_time: 1739758121365
+entry_point_name: ''
+experiment_id: '212182376576522515'
+lifecycle_stage: active
+run_id: 49e2cebeed8941de88ca6d7d8512ccfe
+run_name: handsome-grouse-701
+run_uuid: 49e2cebeed8941de88ca6d7d8512ccfe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739758121309
+status: 4
+tags: []
+user_id: ammar

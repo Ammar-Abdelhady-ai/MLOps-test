@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/212182376576522515/8015573086d74948a925221592148197/artifacts
+end_time: 1739759016805
+entry_point_name: ''
+experiment_id: '212182376576522515'
+lifecycle_stage: active
+run_id: 8015573086d74948a925221592148197
+run_name: serious-shark-296
+run_uuid: 8015573086d74948a925221592148197
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739759014552
+status: 4
+tags: []
+user_id: ammar

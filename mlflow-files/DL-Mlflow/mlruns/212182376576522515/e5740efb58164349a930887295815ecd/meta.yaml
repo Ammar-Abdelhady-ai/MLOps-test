@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/212182376576522515/e5740efb58164349a930887295815ecd/artifacts
+end_time: 1739757217332
+entry_point_name: ''
+experiment_id: '212182376576522515'
+lifecycle_stage: active
+run_id: e5740efb58164349a930887295815ecd
+run_name: defiant-stag-975
+run_uuid: e5740efb58164349a930887295815ecd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739757217256
+status: 4
+tags: []
+user_id: ammar

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/212182376576522515/6300708d0b1a47358a71e890e0f4d4f0/artifacts
+end_time: 1739760196931
+entry_point_name: ''
+experiment_id: '212182376576522515'
+lifecycle_stage: active
+run_id: 6300708d0b1a47358a71e890e0f4d4f0
+run_name: amazing-hare-185
+run_uuid: 6300708d0b1a47358a71e890e0f4d4f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739760175154
+status: 3
+tags: []
+user_id: ammar

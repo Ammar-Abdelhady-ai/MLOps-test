@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/212182376576522515/25f1d37b16d348a2bf6dfeafce063846/artifacts
+end_time: 1739759211204
+entry_point_name: ''
+experiment_id: '212182376576522515'
+lifecycle_stage: active
+run_id: 25f1d37b16d348a2bf6dfeafce063846
+run_name: dashing-toad-563
+run_uuid: 25f1d37b16d348a2bf6dfeafce063846
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739759202502
+status: 4
+tags: []
+user_id: ammar

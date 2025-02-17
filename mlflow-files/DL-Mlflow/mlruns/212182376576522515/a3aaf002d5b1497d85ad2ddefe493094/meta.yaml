@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/212182376576522515/a3aaf002d5b1497d85ad2ddefe493094/artifacts
+end_time: 1739766111751
+entry_point_name: ''
+experiment_id: '212182376576522515'
+lifecycle_stage: active
+run_id: a3aaf002d5b1497d85ad2ddefe493094
+run_name: clumsy-stoat-175
+run_uuid: a3aaf002d5b1497d85ad2ddefe493094
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739766093096
+status: 3
+tags: []
+user_id: ammar

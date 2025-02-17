@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/212182376576522515/431d6c043d764eee88a1ecd8f6732d86/artifacts
+end_time: 1739758565896
+entry_point_name: ''
+experiment_id: '212182376576522515'
+lifecycle_stage: active
+run_id: 431d6c043d764eee88a1ecd8f6732d86
+run_name: exultant-pig-556
+run_uuid: 431d6c043d764eee88a1ecd8f6732d86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739758564605
+status: 4
+tags: []
+user_id: ammar

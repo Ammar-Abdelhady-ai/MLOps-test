@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/794321113439192072/26e6093ee6864389b8e2078a0bd6e6c9/artifacts
+end_time: 1739760685605
+entry_point_name: ''
+experiment_id: '794321113439192072'
+lifecycle_stage: active
+run_id: 26e6093ee6864389b8e2078a0bd6e6c9
+run_name: auspicious-doe-438
+run_uuid: 26e6093ee6864389b8e2078a0bd6e6c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739760677768
+status: 3
+tags: []
+user_id: ammar
